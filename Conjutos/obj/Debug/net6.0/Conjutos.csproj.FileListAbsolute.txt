@@ -1,0 +1,15 @@
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\bin\Debug\net6.0\Conjutos.exe
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\bin\Debug\net6.0\Conjutos.deps.json
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\bin\Debug\net6.0\Conjutos.runtimeconfig.json
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\bin\Debug\net6.0\Conjutos.dll
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\bin\Debug\net6.0\Conjutos.pdb
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.AssemblyInfo.cs
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.dll
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\refint\Conjutos.dll
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.pdb
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\Conjutos.genruntimeconfig.cache
+C:\Users\Arthur\Documents\Primeiro Projeto_Vs\Secao 15\HashSet\Ex1\Ex1\Conjutos\obj\Debug\net6.0\ref\Conjutos.dll
